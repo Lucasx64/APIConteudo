@@ -3,6 +3,8 @@
 // E prepara a lista de serviços que a API vai utilizar.
 
 using EscolaAPI.Contexts;
+using EscolaAPI.Interfaces;
+using EscolaAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,6 +26,14 @@ builder.Services.AddDbContext<EscolaContext>( options =>
     // Dentro da seção ConnectionString do appsettings.json
 
  );
+
+
+// NOVO: Quando alguém pedir ICursoRepository, a API entrega um CursoRepository
+
+builder.Services.AddScoped<ICursoRepository, CursoRepository>();
+
+
+
 
 // ^ Monta a aplicação com tudo que foi registrado acima.
 // Daqui pra baixo não dá mais para registrar serviços.
@@ -58,3 +68,8 @@ app.MapGet("/api/cursos", (EscolaContext db) => db.Curso.ToList());
 
 app.Run();
 
+
+
+// Interface = Contrato
+// -> Assinatura (escopo obrigatório)
+// 
