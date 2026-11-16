@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "EscolaAPI.Controllers.CursoController",
+    "Method": "ListarTodos",
+    "RelativePath": "api/Curso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Program\u002B\u003C\u003Ec",
     "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
     "RelativePath": "api/cursos",

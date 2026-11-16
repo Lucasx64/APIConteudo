@@ -31,6 +31,7 @@ builder.Services.AddDbContext<EscolaContext>( options =>
 // NOVO: Quando alguém pedir ICursoRepository, a API entrega um CursoRepository
 
 builder.Services.AddScoped<ICursoRepository, CursoRepository>();
+builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 
 
 
