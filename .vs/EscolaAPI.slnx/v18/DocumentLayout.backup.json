@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\interfaces\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\interfaces\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\interfaces\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|solutionrelative:escolaapi\\interfaces\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C90F705F-5EE9-2FC9-CE0A-863BF521629D}|EscolaAPI\\EscolaAPI.csproj|c:\\users\\84289112587\\source\\repos\\escolaapi\\escolaapi\\interfaces\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "EscolaAPI\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Models\\Curso.cs",
+              "RelativeToolTip": "EscolaAPI\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T23:25:58.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CursoController.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Controllers\\CursoController.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Controllers\\CursoController.cs",
               "ToolTip": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Controllers\\CursoController.cs",
               "RelativeToolTip": "EscolaAPI\\Controllers\\CursoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T22:57:43.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AlunoRepository.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Repositories\\AlunoRepository.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\AlunoRepository.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IAlunoRepository.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Interfaces\\IAlunoRepository.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Interfaces\\IAlunoRepository.cs",
@@ -76,38 +93,37 @@
               "RelativeToolTip": "EscolaAPI\\Interfaces\\IAlunoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-13T22:39:07.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-13T22:39:07.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CursoRepository.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Repositories\\CursoRepository.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Repositories\\CursoRepository.cs",
               "ToolTip": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Repositories\\CursoRepository.cs",
               "RelativeToolTip": "EscolaAPI\\Repositories\\CursoRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T22:56:17.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ICursoRepository.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Interfaces\\ICursoRepository.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Interfaces\\ICursoRepository.cs",
               "ToolTip": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Interfaces\\ICursoRepository.cs",
               "RelativeToolTip": "EscolaAPI\\Interfaces\\ICursoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T22:42:50.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EscolaAPI\\appsettings.json",
@@ -119,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Program.cs",
               "RelativeDocumentMoniker": "EscolaAPI\\Program.cs",
               "ToolTip": "C:\\Users\\84289112587\\source\\repos\\EscolaAPI\\EscolaAPI\\Program.cs",
               "RelativeToolTip": "EscolaAPI\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T22:40:58.881Z",
               "EditorCaption": ""

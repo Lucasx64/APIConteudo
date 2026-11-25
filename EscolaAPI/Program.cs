@@ -27,12 +27,14 @@ builder.Services.AddDbContext<EscolaContext>( options =>
 
  );
 
+builder.Services.AddControllers(o =>
+    o.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
+
 
 // NOVO: Quando alguém pedir ICursoRepository, a API entrega um CursoRepository
 
 builder.Services.AddScoped<ICursoRepository, CursoRepository>();
 builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
-
 
 
 
@@ -62,7 +64,7 @@ app.MapControllers();
 
 
 
-app.MapGet("/api/cursos", (EscolaContext db) => db.Curso.ToList());
+// app.MapGet("/api/cursos", (EscolaContext db) => db.Curso.ToList());
 
 
 // Liga a API e deixa ela esperando as requisições

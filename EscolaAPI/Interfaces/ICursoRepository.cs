@@ -12,15 +12,24 @@ namespace EscolaAPI.Interfaces
     public interface ICursoRepository
     {
 
-        // R -> read -> devolve todos os cursos
+        // R -> Read: devolve todos os cursos
 
         List<Curso> ListarTodos();
 
-        // Create -> cadastrar um curso novo
+
+        // R -> Read: busca um curso por Id (ou null caso não ache)
+
+        Curso? BuscarPorId(int id);
+
+
+        // C -> Create: cadastrar um curso novo
 
         void Cadastrar(Curso curso);
 
 
+        void Atualizar(int id, Curso curso);
 
+
+        void Deletar(int id);
     }
 }
